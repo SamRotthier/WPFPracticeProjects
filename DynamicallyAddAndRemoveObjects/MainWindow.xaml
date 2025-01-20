@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Add and Remove Items" Height="450" Width="800">
 
-    <Canvas Name="myName" Background="LightYellow" Focusable="True" MouseLeftButtonDown="AddOrRemoveItems">
+    <Canvas Name="myCanvas" Background="LightYellow" Focusable="True" MouseLeftButtonDown="AddOrRemoveItems">
         
     </Canvas>
 
